@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-fira-sans: "Fira Sans";
+  
+    /* Gaps */
+    --gap-base: 16px;
+    --gap-5xl: 24px;
+  
+    /* Paddings */
+    --padding-11xl: 30px;
+  }
